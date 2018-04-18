@@ -84,3 +84,12 @@ objc_autoreleasePoolPop(void *ctxt)
 调用`objc_autoreleasePoolPop()`的时机
 
 
+
+
+## 参考摘录
+
+[黑幕背后的Autorelease](https://blog.sunnyxx.com/2014/10/15/behind-autorelease/)   
+[Objective-C Autorelease Pool 的实现原理](http://blog.leichunfeng.com/blog/2015/05/31/objective-c-autorelease-pool-implementation-principle/)   
+[自动释放池的前世今生](https://draveness.me/autoreleasepool)
+
+
